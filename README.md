@@ -7,7 +7,7 @@ This repository will be used as a backlink for my sites or SEO works
 <a href="https://nhliquor.shop"> NH Liquor Shop</a>
 <a href="https://marijuanadoctor.store"> Marijuana Doctor</a>
 <a href="https://ammodepotstore.com"> Ammo Depot Store</a>
-<a href="https://loyalammunitionshop.com>Loyal Ammunition Shop</a>
+<a href="https://loyalammunitionshop.com">Loyal Ammunition Shop</a>
 <a href="https://premiumammoshop.com"> Premium Ammo Shop</a>
                                      <a href="#">Empty Ancor Link</a>
             https://carlinton.ltd
